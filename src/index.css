@@ -10,6 +10,9 @@
   background-position: 0 0, 18px 18px;
   background-color: #b1d2ff;
 }
+.gif-image {
+  width: 450px;
+}
 
 .spinner {
   width: 56px;
